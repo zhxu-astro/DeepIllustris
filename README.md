@@ -1,6 +1,6 @@
-# DeepIllustris
-DeepIllustris: Inferring Unobservable Structures of Galaxies fusing Simulation and Deep Learning
-[Zhenghao Xu](http://zhenghaoxu.github.io/)
+# DeepIllustris ：Inferring Unobservable Structures of Galaxies fusing Simulation and Deep Learning
+
+Copyright 2019 [Zhenghao Xu](http://zhenghaoxu.github.io/) and contributors.
 
 <html>
 <body>
