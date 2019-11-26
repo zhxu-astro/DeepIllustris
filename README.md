@@ -1,5 +1,7 @@
 # DeepIllustris
 DeepIllustris: Inferring Unobservable Structures of Galaxies fusing Simulation and Deep Learning
+[Zhenghao Xu](http://zhenghaoxu.github.io/)
+
 <html>
 <body>
 <table>
